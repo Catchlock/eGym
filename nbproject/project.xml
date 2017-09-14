@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>Askisi1</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>safariasf</word>
+            <word>safariasfasf</word>
+            <word>αλλα</word>
+            <word>βασική</word>
+            <word>δεν</word>
+            <word>διαγραφής</word>
+            <word>διαθέσιμα</word>
+            <word>είναι</word>
+            <word>Εδώ</word>
+            <word>εικοναεν</word>
+            <word>εμφανίζονται</word>
+            <word>ιδιαίτερη</word>
+            <word>καθαρίζει</word>
+            <word>λειτουργικότητα</word>
+            <word>ορίζει</word>
+            <word>σταθερό</word>
+            <word>συνάρτηση</word>
+            <word>φόρμα</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
